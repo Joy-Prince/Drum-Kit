@@ -17,6 +17,11 @@ footer {
   margin-top: 100px;
 }
 
+.pressed {
+  box-shadow: 0 10px 8px 0px #DBFDF3;
+  opacity: 0.5;
+}
+
 .w {
   background-image: url('images/tom1.png');
 }
